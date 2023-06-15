@@ -208,22 +208,3 @@ new_arr = new_arr.reshape(-1, 100, 100, 3)
 
 prediction = model.predict(new_arr)
 print(CATEGORIES[prediction.argmax()])
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
