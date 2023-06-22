@@ -138,10 +138,7 @@ time.time()
 
 
 
-
-import cv2
 import keras
-
 
 
 
